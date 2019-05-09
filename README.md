@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React Dashboard](https://github.com/f
 
 ## Set-up
 
-Clone project
-run npm install
-run npm start
+Clone project<br>
+run `npm install`<br>
+run `npm start`
 
 ## Available Scripts
 
